@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-Q2J9B77</Machine>
+    <WindowsUser>denys</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fb579ac4-0d70-48d6-9ee1-e48dfda33004</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>3B903AD5705067F8B825ABE95B6D68DCC5F68805B6AF79A960A9C2EB242E1B7F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.PrintSample.JS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.PrintSample.JS_8wekyb3d8bbwe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.PrintSample.JS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-14T18:42:57.971</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\css\print.css">
+      <PackagePath>css\print.css</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\css\ui-dark.css">
+      <PackagePath>Microsoft.WinJS.4.0\css\ui-dark.css</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\css\ui-light.css">
+      <PackagePath>Microsoft.WinJS.4.0\css\ui-light.css</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\sample-utils\scenario-select.css">
+      <PackagePath>sample-utils\scenario-select.css</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\html\pagetoprint.html">
+      <PackagePath>html\pagetoprint.html</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\html\scenario1basic.html">
+      <PackagePath>html\scenario1basic.html</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\html\scenario2standardoptions.html">
+      <PackagePath>html\scenario2standardoptions.html</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\sample-utils\footer.html">
+      <PackagePath>sample-utils\footer.html</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\sample-utils\header.html">
+      <PackagePath>sample-utils\header.html</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\sample-utils\scenario-select.html">
+      <PackagePath>sample-utils\scenario-select.html</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\media\microsoft-sdk.png">
+      <PackagePath>images\microsoft-sdk.png</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\images\print_1.png">
+      <PackagePath>images\print_1.png</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\media\smalltile-sdk.png">
+      <PackagePath>images\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\media\splash-sdk.png">
+      <PackagePath>images\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\media\storelogo-sdk.png">
+      <PackagePath>images\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\media\tile-sdk.png">
+      <PackagePath>images\tile-sdk.png</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\media\windows-sdk.png">
+      <PackagePath>images\windows-sdk.png</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\js\sample-configuration.js">
+      <PackagePath>js\sample-configuration.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\js\scenario1basic.js">
+      <PackagePath>js\scenario1basic.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\js\scenario2standardoptions.js">
+      <PackagePath>js\scenario2standardoptions.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\en-US\ui.strings.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\WinJS.intellisense-setup.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\WinJS.intellisense-setup.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\WinJS.intellisense.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\WinJS.intellisense.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\base.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\base.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\ui.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\ui.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\sample-utils\sample-utils.js">
+      <PackagePath>sample-utils\sample-utils.js</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\fonts\Symbols.ttf">
+      <PackagePath>Microsoft.WinJS.4.0\fonts\Symbols.ttf</PackagePath>
+      <Modified>2018-02-07T16:00:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-02-14T18:42:57.871</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

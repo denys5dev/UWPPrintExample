@@ -1,0 +1,17 @@
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bin\Debug\ReverseMap\resources.pri
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bin\Debug\AppxManifest.xml
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bin\Debug\Printing.build.appxrecipe
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\Printing.jsproj.CoreCompileInputs.cache
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\ResourceHandlingTask.state
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\priconfig.xml
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\priconfig.xml.intermediate
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\layout.resfiles
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\layout.resfiles.intermediate
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\resources.resfiles
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\resources.resfiles.intermediate
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\pri.resfiles
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\pri.resfiles.intermediate
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\qualifiers.txt
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\qualifiers.txt.intermediate
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\denys\Desktop\Windows-universal-samples-master\Samples\Printing\js\bld\Debug\ProjectArchitectures.txt
